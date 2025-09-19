@@ -22,4 +22,3 @@ This project demonstrates how **content-based filtering** can be applied using *
 
 ---
 
-## 📂 Project Structure
